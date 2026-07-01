@@ -1,5 +1,5 @@
 # Siddhesh-Bajpai
-A\# Hi, I'm SIDDHESH BAJPAI 👋
+Hi, I'm SIDDHESH BAJPAI 👋
 
 I am a Tech MBA student at NMIMS combining **Computer Engineering** with **Business Strategy**. I am focusing on building scalable technical solutions that drive real business value.
 
