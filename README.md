@@ -15,3 +15,4 @@ I am a Tech MBA student at NMIMS combining **Computer Engineering** with **Busin
 * **LinkedIn:** SOON!
 * **Portfolio:** SOON!
   
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshbajpai&show_icons=true&theme=radical)
